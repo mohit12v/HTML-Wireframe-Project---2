@@ -1,7 +1,8 @@
 
 
-vercel host link = 
-video shoot explain link =
+vercel host link =   html-wireframe-project.vercel.app
+
+video shoot explain link =  https://drive.google.com/drive/u/0/folders/1pwDoRM0tS7U6RNubhCJh6sCfhF6SAiWK
 
 # 🚲 PURE CYCLES — Bicycle Website
 
