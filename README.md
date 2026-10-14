@@ -1,6 +1,6 @@
 
 
-vercel host link =   html-wireframe-project.vercel.app
+vercel host link =  project-wireframe.vercel.app
 
 video shoot explain link =  https://drive.google.com/drive/u/0/folders/1pwDoRM0tS7U6RNubhCJh6sCfhF6SAiWK
 
